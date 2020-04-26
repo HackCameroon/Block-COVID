@@ -1,5 +1,5 @@
 # Block-COVID
-Decentralized supply chain app for regional-asset tracking during COVID-19
+Decentralized supply chain app implementing a blockchain network for regional-asset tracking and fund allocation during the COVID-19 pandemic.
 
 Follow the steps below to download, install, and run this project.
 
