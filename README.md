@@ -22,7 +22,7 @@ Step 3. Start Ganache
 Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance.
 
 Step 4. Compile & Deploy Smart Contract
-$ truffle migrate --reset You must migrate the election smart contract each time you restart ganache.
+$ truffle migrate --reset You must migrate the Marketplace smart contract each time you restart ganache.
 
 Step 5. Configure Metamask
 
