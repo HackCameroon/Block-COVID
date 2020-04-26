@@ -16,7 +16,7 @@ Metamask: https://metamask.io/
 Step 1. Clone the project
 
 
-Step 2. Install dependencies
+Step 2. Install dependencies using $npm install
 
 Step 3. Start Ganache
 Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance.
