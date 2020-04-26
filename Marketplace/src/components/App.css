@@ -1,0 +1,7 @@
+body {
+    background: url('https://edge.app/wp-content/uploads/2018/04/bitcoin-wallet-hero-background.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
